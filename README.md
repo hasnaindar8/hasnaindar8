@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hi, I'm **Hasnain**
 
-<!--
-**hasnaindar8/hasnaindar8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with a Master’s in Computer Science and over two years of experience as a Java Developer, building secure and scalable backend systems using **Java** and **Spring Boot**. I’m currently expanding into full-stack development through Northcoders, where I’m working with **JavaScript, React, Node.js, and Express.js**.
 
-Here are some ideas to get you started:
+I enjoy solving complex problems, designing maintainable systems, and writing clean, test-driven code. I’m always learning, exploring new tools, and building projects that deliver real value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 📫 Connect With Me
+Feel free to reach out or explore my repositories — always open to interesting collaborations!
